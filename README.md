@@ -5,7 +5,7 @@
 Now I am learning <b>JavaScript</b> and I am trying to make a project with the help of the video. This video is located under "Used Resources".
 This is my 15th project in this series.*<br><br>
 *<b>Finally;</b>
-you can also acces my other project files:
+you can also acces my other project files:*
 * *[Simple-Color-Flipper](https://github.com/svvlcrkt/Simple-Color-Flipper)*
 * *[Counter-Example](https://github.com/svvlcrkt/Counter-Example)* 
 * *[Reviews-Example](https://github.com/svvlcrkt/Reviews-Example)*
